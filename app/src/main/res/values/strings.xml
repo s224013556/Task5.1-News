@@ -1,0 +1,10 @@
+<resources>
+<<<<<<< HEAD
+    <string name="app_name">5c</string>
+    <string name="top_stories">Top Stories</string>
+    <string name="news">News</string>
+    <string name="related_stories">Related Stories</string>
+=======
+    <string name="app_name">iTubeApp</string>
+>>>>>>> 27c18e16025cc6cac1ea8059f8dcb60f6e360f14
+</resources>
